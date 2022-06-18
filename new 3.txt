@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+<frameset rows="121,312" cols="*">
+  <frame src="Logo.html" />
+  <frameset rows="30,276" cols="*">
+    <frame src="Home.html" />
+    <frameset rows="*" cols="245,836">
+      <frameset rows="132,159" cols="*">
+        <frame src="username.html" />
+        <frame src="gambar1.html" />
+      </frameset>
+      
+      <frame src="visi.html">
+    </frameset>
+  </frameset>
+</frameset>
+<noframes></noframes>
+<noframes><body>
+<body>
+</body>
+</html>
